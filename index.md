@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
-date : 12/03/2025
+date : 2025-03-12
 Class : Seminario de servicios de administracion TI
 ---
 
